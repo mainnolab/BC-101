@@ -1,1 +1,1 @@
-# BC-101
+# BC-101 Hookup Guide
