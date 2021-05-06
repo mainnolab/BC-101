@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\01.MaonnoLab\17.ZecZec x BC-101\BC-101_Hardware_V1.2\00.Main.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=00.main-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=00.main-squareholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=00.main-slotholes.txt|LayerPairs=gtl,gbl

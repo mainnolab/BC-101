@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\01.MaonnoLab\17.ZecZec x BC-101\BC-101_Hardware_V1.2\00.Main.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

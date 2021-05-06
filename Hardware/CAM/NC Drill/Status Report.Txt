@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Main.PrjPcb]
+   Generated File[00.Main-RoundHoles.TXT]
+   Generated File[00.Main-SquareHoles.TXT]
+   Generated File[00.Main-SlotHoles.TXT]
+   Generated File[00.Main.LDP]
+   Generated File[00.Main.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At ¤W¤È 11:20:41 On 2020/12/14
