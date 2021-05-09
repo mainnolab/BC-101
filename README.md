@@ -68,8 +68,8 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/30.jpg?w=1024)<br><br>
 零件焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/31.jpg?w=1024)<br><br>
-依照上述方法將R1~R7
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/32.jpg?w=1024)<br><br>
+依照上述方法將R1~R7焊上10KΩ電組，共7個
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/32.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/33.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
