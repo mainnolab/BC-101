@@ -155,5 +155,17 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/80.jpg?w=1024)<br><br>
 STEP4至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/81.jpg?w=1024)<br><br><br><hr>
+- STEP5：焊旋轉電位器<br>
+  - 將旋轉電位器放置於KNOB1~KNOB8位置，並焊接完成
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/82.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/83.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/84.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/85.jpg?w=1024)<br><br>
+  - 安裝旋鈕
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/82.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/82.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/82.jpg?w=1024)<br><br>
+STEP5至此完成
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/81.jpg?w=1024)<br><br><br><hr>
 ## 韌體燒錄
 ## 功能測試
