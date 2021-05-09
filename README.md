@@ -22,7 +22,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 * 電阻220Ω x 5、電阻10KΩ x 5、二極體 x 1、撥盤電位器 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/08.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/07.jpg?w=1024)<br><br>
-* 積體電路PC900 x 1、積體電路CD74HC4051E x 6、3.5mm音頻插座 x 2
+* 積體電路PC900V x 1、積體電路CD74HC4051E x 6、3.5mm音頻插座 x 2
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/10.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/09.jpg?w=1024)<br><br>
 * 按鍵開關(白色) x 33、按鍵開關(黃色) x 4、按鍵帽(白色) x 19<br>按鍵帽(黑色) x 10、按鍵帽(綠色) x 2、按鍵帽(紅色) x 2、按鍵帽(黃色) x 2、按鍵帽(藍色) x 2
@@ -99,7 +99,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/48.jpg?w=1024)<br><br>
   - 焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/49-1.jpg?w=1024)<br><br>
-  - 將其餘的MUX2~MUX6均焊上CD74HC4051E
+  - 將其餘的MUX2~MUX6位置均焊上CD74HC4051E；IC1位置則是焊上PC900V
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/50.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
