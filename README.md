@@ -19,22 +19,22 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/05.jpg?w=1024)<br><br>
 * LCM1602 顯示器模組 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/06.jpg?w=1024)<br><br>
-* 零件包 x 1 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
+* 零件包 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/07.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/08.jpg?w=1024)<br><br>
-* 零件包 x 1
+* 零件包 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/09.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/10.jpg?w=1024)<br><br>
-* 零件包 x 1
+* 零件包 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/11.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/12.jpg?w=1024)<br><br>
-* 零件包 x 1
+* 零件包 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/13.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/14.jpg?w=1024)<br><br>
-* 零件包 x 1
+* 零件包 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/15.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/16.jpg?w=1024)<br><br>
-* 零件包 x 1
+* 零件包 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/17.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/18.jpg?w=1024)<br><br>
 ## 工具準備
