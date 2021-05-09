@@ -40,8 +40,8 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ## 工具準備
 * 電烙鐵、焊錫、排煙機（非必要，但建議使用；若無排煙機建議保持焊接時的空氣流通）
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/19.jpg?w=1024)<br><br>
-* IC整角器、十字起子、尖嘴鉗、套筒起子(6mm)、電阻折角器<br>
-其中IC整角器、電阻折角器、套筒起子為非必要之工具，使用的話可增加流暢度
+* IC整角器、十字起子、尖嘴鉗、6mm套筒起子、電阻折角器<br>
+（其中IC整角器、電阻折角器、套筒起子為非必要之工具，使用的話可增加流暢度）
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/20.jpg?w=1024)<br><br>
 ## 零件焊接
 ## 韌體燒錄
