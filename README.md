@@ -115,7 +115,7 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/56.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/59.jpg?w=1024)<br><br>
   - 將電路板翻面開始焊接
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/57.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/57.jpg?w=1024)<br><br>
   - 焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/58.jpg?w=1024)<br><br>
 ## 韌體燒錄
