@@ -31,7 +31,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 * 跳線帽 x 20、1x16排針公座 x 1、2x3排針公座 x 1、2x6排針公座 x 2、2x8排針公座 x 1<br>1x6排針母座 x 1、1x8排針母座 x 2、1x10排針母座 x 1、1x16排針母座 x 1、1x17排針母座 x 2
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/14.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/13.jpg?w=1024)<br><br>
-* 旋鈕 x 8、旋轉電位器10KΩ x 8
+* 旋鈕 x 8、旋轉電位器 x 8
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/16.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/15.jpg?w=1024)<br><br>
 * 6.5mm音頻插座 x 1、雙軸搖桿 x 1、蘑菇頭 x 1、塑膠螺絲 x 2、塑膠螺帽 x 2、塑膠銅柱 x 2、橡膠腳墊 x 8
@@ -80,6 +80,12 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/39.jpg?w=1024)<br><br>
   - STEP1至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/40.jpg?w=1024)<br><br><br><br>
-- STEP2：焊接積體電路、3.5mm音頻插座<br>
+- STEP2：焊接積體電路IC、3.5mm音頻插座<br>
+  - 先將積體電路IC從料袋拿出，這時若有IC整角器也會方便很多
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/41.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/42.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/43.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/44.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/45.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
