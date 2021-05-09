@@ -3,5 +3,5 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 本文件將會簡述本裝置的硬體組裝說明及韌體燒錄步驟
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/00.png?w=1024)
 ## 開箱
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/01-2.jpg)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/01-2.jpg?w=1024)<br>
 
