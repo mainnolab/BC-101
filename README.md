@@ -109,6 +109,13 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
   - 將電路板翻面開始焊接
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/54.jpg?w=1024)<br><br>
   - STEP2至此完成
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/55.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/55.jpg?w=1024)<br><br><br><br>
+- STEP3：焊接按鍵開關<br>
+  - 先將黃色按鍵開關放置SW1~SW4位置
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/56.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/59.jpg?w=1024)<br><br>
+  - 至背面並焊接完成
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/57.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/58.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
