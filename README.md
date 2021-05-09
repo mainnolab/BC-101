@@ -163,7 +163,7 @@ STEP4至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/85.jpg?w=1024)<br><br>
   - 安裝旋鈕
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/86.jpg?w=1024)<br>
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/86.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/87.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/88.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/89.jpg?w=1024)<br><br>
 STEP5至此完成
