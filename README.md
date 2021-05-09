@@ -28,7 +28,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 * 按鍵開關(白色) x 33、按鍵開關(黃色) x 4、按鍵帽(白色) x 19<br>按鍵帽(黑色) x 10、按鍵帽(綠色) x 2、按鍵帽(紅色) x 2、按鍵帽(黃色) x 2、按鍵帽(藍色) x 2
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/11.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/12.jpg?w=1024)<br><br>
-* 跳線帽 x 20、1x16排針公座 x 1、2x3排針公座 x 1、2x6排針公座 x 1、2x8排針公座 x 1
+* 跳線帽 x 20、1x16排針公座 x 1、2x3排針公座 x 1、2x6排針公座 x 2、2x8排針公座 x 1<br>、1x6排針母座 x 1、1x8排針母座 x 2、1x10排針母座 x 1、1x16排針母座 x 1、1x17排針母座 x 2
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/13.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/14.jpg?w=1024)<br><br>
 * 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
