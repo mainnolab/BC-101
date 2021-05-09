@@ -79,7 +79,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/38.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/39.jpg?w=1024)<br><br>
   - STEP1至此完成
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/40.jpg?w=1024)<br><br><br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/40.jpg?w=1024)<br><br><br><hr>
 - STEP2：焊接積體電路IC、3.5mm音頻插座<br>
   - 先將積體電路IC從料袋拿出，這時若有IC整角器也會方便很多
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/41.jpg?w=1024)<br><br>
@@ -109,7 +109,7 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
   - 將電路板翻面開始焊接
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/54.jpg?w=1024)<br><br>
   - STEP2至此完成
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/55.jpg?w=1024)<br><br><br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/55.jpg?w=1024)<br><br><br><hr>
 - STEP3：焊接按鍵開關<br>
   - 先將黃色按鍵開關放置SW1~SW4位置
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/56.jpg?w=1024)<br>
@@ -131,7 +131,7 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
   - KEY23按鍵帽安裝完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/65.jpg?w=1024)<br><br>
   - 將按鍵帽全數安裝，STEP3至此完成
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/66.jpg?w=1024)<br><br><br><br><hr>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/66.jpg?w=1024)<br><br><br><hr>
 - STEP4：焊排針<br><br>
   - 先將二極體和電阻從料袋拿出，這時若有電組折角器會方便很多
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/21.jpg?w=1024)<br><br>
