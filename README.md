@@ -133,7 +133,21 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
   - 將按鍵帽全數安裝，STEP3至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/66.jpg?w=1024)<br><br><br><hr>
 - STEP4：焊排針<br><br>
-  - 先將二極體和電阻從料袋拿出，這時若有電組折角器會方便很多
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/21.jpg?w=1024)<br><br>
+  - 先XXXXXXXX
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/67.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/68.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/69.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/70.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/71.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/72.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/73.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/74.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/75.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/76.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/77.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/78.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/79.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/80.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/81.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
