@@ -131,6 +131,9 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
   - KEY23按鍵帽安裝完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/65.jpg?w=1024)<br><br>
   - 將按鍵帽全數安裝，STEP3至此完成
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/66.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/66.jpg?w=1024)<br><br><br><br>
+- STEP4：焊排針<br><br>
+  - 先將二極體和電阻從料袋拿出，這時若有電組折角器會方便很多
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/21.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
