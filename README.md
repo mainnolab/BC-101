@@ -44,7 +44,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 （其中IC整角器、電阻折角器、套筒起子為非必要之工具，使用的話可增加組裝流暢度）
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/20.jpg?w=1024)<br><br>
 ## 零件焊接
-- STEP1：二極體、電組、撥盤電位器<br>焊接零件首先從高度矮的零件依序往高的零件焊起，所以首先處理二極體、電組和撥盤電位器<br>
+- STEP1：二極體、電組、撥盤電位器<br>焊接零件首先從高度矮的零件依序往高的零件焊起，所以首先處理二極體、電組和撥盤電位器<br><br>
   - 先將二極體和電阻從料袋拿出，這時若有電組折角器會方便很多
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/21.jpg?w=1024)<br><br>
   - 將電阻放至折角器的適當位置
