@@ -152,8 +152,8 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/77.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/79.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/78.jpg?w=1024)<br>
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/80.jpg?w=1024)<br>
-STEP3至此完成
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/80.jpg?w=1024)<br><br>
+STEP4至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/81.jpg?w=1024)<br><br><br><hr>
 ## 韌體燒錄
 ## 功能測試
