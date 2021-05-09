@@ -22,10 +22,10 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 * 零件包 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/07.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/08.jpg?w=1024)<br><br>
-* 零件包 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
+* 零件包 : 積體電路PC900 x 1、積體電路CD74HC4051E x 6、音頻插座 x 2
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/09.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/10.jpg?w=1024)<br><br>
-* 零件包 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
+* 零件包 : 按鍵開關(白色) x 33、按鍵開關(黃色) x 4、按鍵帽(白色) x 19、按鍵帽(黑色) x 10、按鍵帽(綠色) x 2、按鍵帽(紅色) x 2、按鍵帽(黃色) x 2、按鍵帽(藍色) x 2
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/11.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/12.jpg?w=1024)<br><br>
 * 零件包 : 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
