@@ -19,7 +19,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/05.jpg?w=1024)<br><br>
 * LCM1602 顯示器模組 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/06.jpg?w=1024)<br><br>
-* 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
+* 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、撥盤電位器10KΩ x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/08.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/07.jpg?w=1024)<br><br>
 * 積體電路PC900 x 1、積體電路CD74HC4051E x 6、音頻插座 x 2
@@ -44,6 +44,8 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 （其中IC整角器、電阻折角器、套筒起子為非必要之工具，使用的話可增加組裝流暢度）
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/20.jpg?w=1024)<br><br>
 ## 零件焊接
+* STEP1：二極體、電組、撥盤電位器
+焊接零件首先從高度矮的零件依序往高的零件焊起，所以首先處理二極體、電組和撥盤電位器
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/21.jpg?w=1024)<br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/22.jpg?w=1024)<br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/23.jpg?w=1024)<br><br>
