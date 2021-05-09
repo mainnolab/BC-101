@@ -56,8 +56,11 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/24.jpg?w=1024)<br><br>
 將二極體放置電路板D1位置，二極體是有方向的，因此二極體零件上左方的黑線記號需要朝左
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/25.jpg?w=1024)<br><br>
+放置完零件後將電路板翻面，準備好已預熱好的烙鐵和銲錫，準備焊接零件
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/26.jpg?w=1024)<br><br>
+焊接中
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/27.jpg?w=1024)<br><br>
+焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/28.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
