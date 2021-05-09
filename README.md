@@ -42,8 +42,6 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/19.jpg?w=1024)<br><br>
 * IC整角器、十字起子、尖嘴鉗、套筒起子(6mm)、電阻折角器<br>
 IC整角器、電阻折角器、套筒起子為非必要之工具，使用的話可增加流暢度
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/19.jpg?w=1024)<br><br>
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/19.jpg?w=1024)<br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/20.jpg?w=1024)<br><br>
 ## 零件焊接
 ## 韌體燒錄
