@@ -32,8 +32,8 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/14.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/13.jpg?w=1024)<br><br>
 * 旋鈕 x 8、旋轉電位器10KΩ x 8
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/15.jpg?w=1024)<br>
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/16.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/16.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/15.jpg?w=1024)<br><br>
 * 音頻插座 x 1、雙軸搖桿 x 1、蘑菇頭 x 1、塑膠螺絲 x 2、塑膠螺帽 x 2、塑膠銅柱 x 2、橡膠腳墊 x 8
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/18.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/17.jpg?w=1024)<br><br>
