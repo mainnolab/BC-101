@@ -55,7 +55,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 折完腳的二極體和電組
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/24.jpg?w=1024)<br><br>
 將二極體放置電路板D1位置，二極體是有方向的，因此二極體零件上左方的黑線記號需要朝左
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/25.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/34.jpg?w=1024)<br><br>
 放置完零件後將電路板翻面，準備好已預熱好的烙鐵和銲錫，準備焊接零件
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/26.jpg?w=1024)<br><br>
 焊接中
@@ -67,10 +67,12 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 使用斜口鉗將零件腳都剪除，剪腳時建議用手將零件腳抓住再剪，防止零件腳亂飛
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/30.jpg?w=1024)<br><br>
 零件焊接完成
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/32.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/31.jpg?w=1024)<br><br>
+依照上述方法將位置R1~R7都焊上10KΩ的電組
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/32.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/33.jpg?w=1024)<br><br>
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/34.jpg?w=1024)<br><br>
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/35.jpg?w=1024)<br><br>
+依照上述方法將位置R8~R12都焊上220Ω的電組
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/35.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/36.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
