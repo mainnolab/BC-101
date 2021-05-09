@@ -45,11 +45,16 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/20.jpg?w=1024)<br><br>
 ## 零件焊接
 * STEP1：二極體、電組、撥盤電位器<br>
-焊接零件首先從高度矮的零件依序往高的零件焊起，所以首先處理二極體、電組和撥盤電位器
+焊接零件首先從高度矮的零件依序往高的零件焊起，所以首先處理二極體、電組和撥盤電位器<br>
+先將二極體和電阻從料袋拿出，這時若有電組折角器會方便很多
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/21.jpg?w=1024)<br><br>
+將電阻放至折角器的適當位置
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/22.jpg?w=1024)<br><br>
+將電阻雙腳順著折角器的方向壓下
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/23.jpg?w=1024)<br><br>
+折完腳的二極體和電組
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/24.jpg?w=1024)<br><br>
+將二極體放置電路板D1位置，二極體是有方向的，因此二極體零件上左方的黑線記號需要朝左
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/25.jpg?w=1024)<br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/26.jpg?w=1024)<br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/27.jpg?w=1024)<br><br>
