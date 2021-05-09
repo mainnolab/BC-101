@@ -38,6 +38,8 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/18.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/17.jpg?w=1024)<br><br>
 ## 工具準備
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/19.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/20.jpg?w=1024)<br><br>
 ## 零件焊接
 ## 韌體燒錄
 ## 功能測試
