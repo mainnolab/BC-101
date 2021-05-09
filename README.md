@@ -15,7 +15,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ## 零件清點
 * BC-101 主板 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/04.jpg?w=1024)<br><br>
-* Arduino Micro 控制器模組 x 1、Micro USB 線 x 1
+* Arduino Micro 控制器模組 x 1、Micro USB 線材 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/05.jpg?w=1024)<br><br>
 * LCM1602 顯示器模組 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/06.jpg?w=1024)<br><br>
@@ -31,10 +31,10 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 * 跳線帽 x 20、1x16排針公座 x 1、2x3排針公座 x 1、2x6排針公座 x 2、2x8排針公座 x 1<br>1x6排針母座 x 1、1x8排針母座 x 2、1x10排針母座 x 1、1x16排針母座 x 1、1x17排針母座 x 2
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/13.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/14.jpg?w=1024)<br><br>
-* 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
+* 旋鈕 x 8、旋轉電位器10KΩ x 8
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/15.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/16.jpg?w=1024)<br><br>
-* 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、電位器10KΩ x 1
+* 音頻插座 x 1、雙軸搖桿 x 1、蘑菇頭 x 1、塑膠螺絲 x 2、塑膠螺帽 x 2、塑膠銅柱 x 2、橡膠腳墊 x 8
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/17.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/18.jpg?w=1024)<br><br>
 ## 工具準備
