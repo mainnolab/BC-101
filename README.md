@@ -99,8 +99,9 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/48.jpg?w=1024)<br><br>
   - 焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/49-1.jpg?w=1024)<br><br>
-  - 將其餘的MUX2~MUX6位置均焊上CD74HC4051E；IC1位置則是焊上PC900V
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/50-1.jpg?w=1024)<br>
+  - 將其餘的MUX2~MUX6位置均焊上CD74HC4051E
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/50-1.jpg?w=1024)<br><br>
+IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/51.jpg?w=1024)<br><br>
   - 將兩個3.5mm音頻插座分別放入MIDI-IN和MIDI-OUT的位置上
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/52.jpg?w=1024)<br>
