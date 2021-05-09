@@ -95,7 +95,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/46.jpg?w=1024)<br><br>
   - 將IC放入電路板的孔位，注意IC是有方向性的，外觀的缺口要朝左<br>另外，若此時的IC腳未往內壓過的話，會發現無法順利放入
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/47.jpg?w=1024)<br><br>
-  - 將電路板翻面準備開始焊接
+  - 將電路板翻面開始焊接
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/48.jpg?w=1024)<br><br>
   - 焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/49.jpg?w=1024)<br><br>
