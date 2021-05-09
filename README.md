@@ -64,7 +64,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/28.jpg?w=1024)<br><br>
 將第二個焊點完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/29.jpg?w=1024)<br><br>
-使用斜口鉗將零件腳剪除，剪腳時建議用手將零件腳抓住再剪，防止零件腳亂飛
+使用斜口鉗將零件腳都剪除，剪腳時建議用手將零件腳抓住再剪，防止零件腳亂飛
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/30.jpg?w=1024)<br><br>
 零件焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/31.jpg?w=1024)<br><br>
