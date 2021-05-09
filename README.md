@@ -98,7 +98,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
   - 將電路板翻面開始焊接
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/48.jpg?w=1024)<br><br>
   - 焊接完成
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/49.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/49-1.jpg?w=1024)<br><br>
   - 將其餘的MUX2~MUX6均焊上CD74HC4051E
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/50.jpg?w=1024)<br><br>
 ## 韌體燒錄
