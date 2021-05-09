@@ -14,14 +14,14 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/03-3.jpg?w=800)<br><br>
 ## 零件清點
 * BC-101 主板 x 1
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/04.jpg?w=800)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/04.jpg?w=1024)<br><br>
 * Arduino Micro 主板 x 1、Micro USB 線 x 1
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/05.jpg?w=800)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/05.jpg?w=1024)<br><br>
 * LCM1602 顯示器模組 x 1
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/06.jpg?w=800)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/06.jpg?w=1024)<br><br>
 * 零件包 x 1
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/07.jpg?w=800)<br><br>
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/08.jpg?w=800)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/07.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/08.jpg?w=1024)<br><br>
 * 零件包 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/09.jpg?w=800)<br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/10.jpg?w=800)<br><br>
