@@ -44,8 +44,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 （其中IC整角器、電阻折角器、套筒起子為非必要之工具，使用的話可增加組裝流暢度）
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/20.jpg?w=1024)<br><br>
 ## 零件焊接
-- STEP1：二極體、電組、撥盤電位器<br>
-  - 焊接零件首先從高度矮的零件依序往高的零件焊起，所以首先處理二極體、電組和撥盤電位器<br>
+- STEP1：二極體、電組、撥盤電位器<br>焊接零件首先從高度矮的零件依序往高的零件焊起，所以首先處理二極體、電組和撥盤電位器<br>
   - 先將二極體和電阻從料袋拿出，這時若有電組折角器會方便很多
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/21.jpg?w=1024)<br><br>
   - 將電阻放至折角器的適當位置
@@ -64,18 +63,15 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/28.jpg?w=1024)<br><br>
   - 再將第二個焊點完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/29.jpg?w=1024)<br><br>
-使用斜口鉗將零件腳都剪除，剪腳時建議用手將零件腳抓住再剪，防止零件腳亂飛
+  - 使用斜口鉗將零件腳都剪除，剪腳時建議用手將零件腳抓住再剪，防止零件腳亂飛
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/30.jpg?w=1024)<br><br>
-零件焊接完成
+  - 零件焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/31.jpg?w=1024)<br><br>
-* 依照上述方法將R1~R7焊上10KΩ電組，共7個
+  - 依照上述方法將R1~R7焊上10KΩ電組，共7個
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/32.jpg?w=1024)<br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/33.jpg?w=1024)<br><br>
-* 依照上述方法將R1~R7焊上10KΩ電組，共7個
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/32.jpg?w=1024)<br><br>
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/33.jpg?w=1024)<br><br>
-依照上述方法將R1~R7焊上10KΩ電組，共7個
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/32.jpg?w=1024)<br><br>
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/33.jpg?w=1024)<br><br>
+  - 依照上述方法將R8~R12焊上10KΩ電組，共5個
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/35.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/36.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
