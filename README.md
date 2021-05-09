@@ -19,10 +19,10 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/05.jpg?w=1024)<br><br>
 * LCM1602 顯示器模組 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/06.jpg?w=1024)<br><br>
-* 電阻220Ω x 5、電阻10KΩ x 5、二極體1N4148 x 1、撥盤電位器10KΩ x 1
+* 電阻220Ω x 5、電阻10KΩ x 5、二極體 x 1、撥盤電位器 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/08.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/07.jpg?w=1024)<br><br>
-* 積體電路PC900 x 1、積體電路CD74HC4051E x 6、音頻插座 x 2
+* 積體電路PC900 x 1、積體電路CD74HC4051E x 6、3.5mm音頻插座 x 2
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/10.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/09.jpg?w=1024)<br><br>
 * 按鍵開關(白色) x 33、按鍵開關(黃色) x 4、按鍵帽(白色) x 19<br>按鍵帽(黑色) x 10、按鍵帽(綠色) x 2、按鍵帽(紅色) x 2、按鍵帽(黃色) x 2、按鍵帽(藍色) x 2
@@ -34,7 +34,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 * 旋鈕 x 8、旋轉電位器10KΩ x 8
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/16.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/15.jpg?w=1024)<br><br>
-* 音頻插座 x 1、雙軸搖桿 x 1、蘑菇頭 x 1、塑膠螺絲 x 2、塑膠螺帽 x 2、塑膠銅柱 x 2、橡膠腳墊 x 8
+* 6.5mm音頻插座 x 1、雙軸搖桿 x 1、蘑菇頭 x 1、塑膠螺絲 x 2、塑膠螺帽 x 2、塑膠銅柱 x 2、橡膠腳墊 x 8
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/18.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/17.jpg?w=1024)<br><br>
 ## 工具準備
@@ -44,7 +44,8 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 （其中IC整角器、電阻折角器、套筒起子為非必要之工具，使用的話可增加組裝流暢度）
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/20.jpg?w=1024)<br><br>
 ## 零件焊接
-- STEP1：二極體、電組、撥盤電位器<br>焊接零件首先從高度矮的零件依序往高的零件焊起，所以首先處理二極體、電組和撥盤電位器<br><br>
+焊接零件時，首先從高度矮的零件依序往高的零件焊起，所以首先處理二極體、電組和撥盤電位器<br>
+- STEP1：焊接二極體、電組、撥盤電位器<br><br>
   - 先將二極體和電阻從料袋拿出，這時若有電組折角器會方便很多
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/21.jpg?w=1024)<br><br>
   - 將電阻放至折角器的適當位置
@@ -77,7 +78,8 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
   - 接著將POT1位置焊上10KΩ撥盤電位器
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/38.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/39.jpg?w=1024)<br><br>
-  - STEP1至此完成！
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/40.jpg?w=1024)<br><br>
+  - STEP1至此完成
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/40.jpg?w=1024)<br><br><br><br>
+- STEP2：焊接積體電路、3.5mm音頻插座<br>
 ## 韌體燒錄
 ## 功能測試
