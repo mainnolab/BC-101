@@ -168,5 +168,20 @@ STEP4至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/89-1.jpg?w=1024)<br><br>
 STEP5至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/90-1.jpg?w=1024)<br><br><br><hr>
+- STEP6：焊音頻插座、雙軸搖桿、橡膠腳墊黏貼<br>
+  - 將6.5mm音頻插座放置於PEDAL位置，並焊接完成
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/91.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/92.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/93.jpg?w=1024)<br><br>
+  - 將雙軸搖桿放置於JOYSTICK位置，並焊接完成
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/94.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/95.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/96.jpg?w=1024)<br><br>
+  - 搖桿蘑菇頭安裝
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/97.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/98.jpg?w=1024)<br><br>
+  - 橡膠腳墊黏貼
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/99.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/100.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
