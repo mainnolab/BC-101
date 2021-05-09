@@ -15,7 +15,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ## 零件清點
 * BC-101 主板 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/04.jpg?w=1024)<br><br>
-* Arduino Micro 主板 x 1、Micro USB 線 x 1
+* Arduino Micro 控制器模組 x 1、Micro USB 線 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/05.jpg?w=1024)<br><br>
 * LCM1602 顯示器模組 x 1
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/06.jpg?w=1024)<br><br>
