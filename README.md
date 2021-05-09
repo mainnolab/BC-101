@@ -120,17 +120,17 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/58.jpg?w=1024)<br><br>
   - 如上述步驟，將SW1~SW4位置焊上白色按鍵開關
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/60.jpg?w=1024)<br><br>
-  - 如上述步驟，將SW1~SW4位置焊上白色按鍵開關
+  - 如上述步驟，將KEY1~KEY12位置焊上白色按鍵開關
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/61.jpg?w=1024)<br><br>
-  - 焊接完成
+  - 如上述步驟，將KEY13~KEY25位置焊上白色按鍵開關
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/62.jpg?w=1024)<br><br>
-  - 焊接完成
+  - 準備按鍵帽
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/63.jpg?w=1024)<br><br>
-  - 焊接完成
+  - 將KEY23裝上黑色按鍵帽
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/64.jpg?w=1024)<br><br>
-  - 焊接完成
+  - KEY23按鍵帽安裝完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/65.jpg?w=1024)<br><br>
-  - 焊接完成
+  - 將安健帽全數安裝，STEP3至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/66.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
