@@ -182,7 +182,9 @@ STEP5至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/98.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/99.jpg?w=1024)<br><br>
   - 橡膠腳墊黏貼
-
-![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/100.jpg?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/100.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/101.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/102.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/103.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
