@@ -83,9 +83,13 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 - STEP2：焊接積體電路IC、3.5mm音頻插座<br>
   - 先將積體電路IC從料袋拿出，這時若有IC整角器也會方便很多
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/41.jpg?w=1024)<br><br>
+  - 將積體電路IC放置於整角器上
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/42.jpg?w=1024)<br><br>
+  - 雙手分別置於整腳器上下緣
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/43.jpg?w=1024)<br><br>
+  - 雙手平均施力向內壓
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/44.jpg?w=1024)<br><br>
+  - 整腳完將IC拿出，剩餘的積體電路IC也執行相同的動作
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/45.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
