@@ -80,7 +80,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/39.jpg?w=1024)<br><br>
   - STEP1至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/40.jpg?w=1024)<br><br><br><hr>
-- STEP2：焊接積體電路IC、3.5mm音頻插座<br>
+- STEP2：焊接積體電路IC、3.5mm音頻插座<br><br>
   - 先將積體電路IC從料袋拿出，這時若有IC整角器也會方便很多
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/41.jpg?w=1024)<br><br>
   - 將積體電路IC放置於整角器上
@@ -110,7 +110,7 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/54.jpg?w=1024)<br><br>
   - STEP2至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/55.jpg?w=1024)<br><br><br><hr>
-- STEP3：焊接按鍵開關<br>
+- STEP3：焊接按鍵開關<br><br>
   - 先將黃色按鍵開關放置SW1~SW4位置
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/56.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/59.jpg?w=1024)<br><br>
@@ -155,7 +155,7 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/80.jpg?w=1024)<br><br>
 STEP4至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/81.jpg?w=1024)<br><br><br><hr>
-- STEP5：焊旋轉電位器<br>
+- STEP5：焊旋轉電位器<br><br>
   - 將旋轉電位器放置於KNOB1~KNOB8位置，並焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/82.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/83.jpg?w=1024)<br>
@@ -168,7 +168,7 @@ STEP4至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/89-1.jpg?w=1024)<br><br>
 STEP5至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/90-1.jpg?w=1024)<br><br><br><hr>
-- STEP6：焊音頻插座、雙軸搖桿、橡膠腳墊黏貼<br>
+- STEP6：焊音頻插座、雙軸搖桿、橡膠腳墊黏貼<br><br>
   - 將6.5mm音頻插座放置於PEDAL位置，並焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/91.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/92.jpg?w=1024)<br>
@@ -188,5 +188,9 @@ STEP5至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/103-1.jpg?w=1024)<br><br>
 STEP6至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/104-1.jpg?w=1024)<br><br><br><hr>
+- STEP7：安裝Arduino Micro、LCM1602顯示器模組<br><br>
+  - 安裝Arduino Micro
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/105.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/106.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
