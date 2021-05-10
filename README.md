@@ -41,19 +41,19 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ## 工具準備
 * 電烙鐵、焊錫、排煙機（非必要，但建議使用；若無排煙機建議保持焊接時的空氣流通）
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/19.jpg?w=1024)<br><br>
-* IC整角器、小十字起子、尖嘴鉗、6mm套筒起子、電阻折角器<br>
-（其中IC整角器、電阻折角器、套筒起子為非必要之工具，使用的話可增加組裝流暢度）
+* IC整腳器、小十字起子、尖嘴鉗、6mm套筒起子、電阻折腳器<br>
+（其中IC整腳器、電阻折腳器、套筒起子為非必要之工具，使用的話可增加組裝流暢度）
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/20.jpg?w=1024)<br><br>
 ## 零件焊接
-焊接零件時，首先從高度矮的零件依序往高的零件焊起，所以首先處理二極體、電組和撥盤電位器<br>
-- STEP1：焊接二極體、電組、撥盤電位器<br><br>
-  - 先將二極體和電阻從料袋拿出，這時若有電組折角器會方便很多
+焊接零件時，首先從高度矮的零件依序往高的零件焊起，所以先焊二極體、電阻和撥盤電位器<br>
+- STEP1：焊接二極體、電阻、撥盤電位器<br><br>
+  - 先將二極體和電阻從料袋拿出，這時若有電阻折腳器會方便很多
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/21.jpg?w=1024)<br><br>
-  - 將電阻放至折角器的適當位置
+  - 將電阻放至折腳器的適當位置
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/22.jpg?w=1024)<br><br>
-  - 將電阻雙腳順著折角器的方向壓下
+  - 將電阻雙腳順著折腳器的方向壓下
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/23.jpg?w=1024)<br><br>
-  - 折完腳的二極體和電組
+  - 折完腳的二極體和電阻
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/24.jpg?w=1024)<br><br>
   - 將二極體放置電路板D1位置，二極體是有方向的，因此二極體零件上左方的黑線記號需要朝左
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/34.jpg?w=1024)<br><br>
@@ -69,11 +69,11 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/30.jpg?w=1024)<br><br>
   - 零件焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/31.jpg?w=1024)<br><br>
-  - 依照上述方法將R1~R7位置焊上10KΩ電組，共7個
+  - 依照上述方法將R1~R7位置焊上10KΩ電阻，共7個
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/32.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/35.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/33.jpg?w=1024)<br><br>
-  - 依照上述方法將R8~R12位置焊上10KΩ電組，共5個
+  - 依照上述方法將R8~R12位置焊上10KΩ電阻，共5個
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/37.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/36.jpg?w=1024)<br><br>
   - 接著將POT1位置焊上10KΩ撥盤電位器
