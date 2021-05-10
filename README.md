@@ -222,4 +222,6 @@ BC-101至此焊接完畢
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/129.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/130.jpg?w=1024)<br><br><br><hr>
 ## 韌體燒錄
+製作中
 ## 功能測試
+製作中
