@@ -5,6 +5,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 * 零件清點
 * 工具準備
 * 零件焊接
+* 零件清單
 * 韌體燒錄
 * 功能測試
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/00.png?w=1024)
@@ -221,6 +222,8 @@ STEP7至此完成
 BC-101至此焊接完畢
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/129.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/130.jpg?w=1024)<br><br><br><hr>
+## 零件清單
+製作中
 ## 韌體燒錄
 製作中
 ## 功能測試
