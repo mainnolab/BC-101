@@ -201,5 +201,25 @@ STEP6至此完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/112.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/113.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/114.jpg?w=1024)<br><br>
+- 安裝1x16排針公座
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/115.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/116.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/117.jpg?w=1024)<br>
+- 安裝LCM1602顯示器模組
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/118.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/119.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/120.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/121.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/122.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/123.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/124.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/125.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/126.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/127.jpg?w=1024)<br><br>
+STEP7至此完成
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/128.jpg?w=1024)<br><br><br><hr>
+BC-101至此焊接完畢
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/129.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/130.jpg?w=1024)<br><br><br><hr>
 ## 韌體燒錄
 ## 功能測試
