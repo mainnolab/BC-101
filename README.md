@@ -137,14 +137,14 @@ IC1位置則是焊上PC900V，一樣注意IC的圓圈記號朝左
   - 將1x16排針母座放置於MONITOR位置
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/67.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/68.jpg?w=1024)<br><br>
-  - 將兩個1x17排針母座放置於Arduino Micro位置
+  - 將兩個1x17排針母座放置於ARDUINO MICRO位置
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/69.jpg?w=1024)<br><br>
-  - 其餘排針母座依對應位置放置於Arduino Shiled區域
+  - 其餘排針母座依對應位置放置於ARDUINO SHIELD區域
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/70.jpg?w=1024)<br><br>
   - 將排針母座依序焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/71.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/72.jpg?w=1024)<br><br>
-  - 再將其餘排針公座依對應位置放置於Arduino Shiled區域並焊接完成
+  - 再將其餘排針公座依對應位置放置於ARDUINO SHIELD區域並焊接完成
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/73.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/76.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/74.jpg?w=1024)<br>
