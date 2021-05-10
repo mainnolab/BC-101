@@ -192,5 +192,14 @@ STEP6至此完成
   - 安裝Arduino Micro
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/105.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/106.jpg?w=1024)<br><br>
+  - 安裝塑膠銅柱
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/107.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/108.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/109.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/110.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/111.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/112.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/113.jpg?w=1024)<br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/114.jpg?w=1024)<br><br>
 ## 韌體燒錄
 ## 功能測試
