@@ -73,7 +73,7 @@ BC-101 為基於[ Arduino Micro ](https://store.arduino.cc/usa/arduino-micro)為
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/32.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/35.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/33.jpg?w=1024)<br><br>
-  - 依照上述方法將R8~R12位置焊上10KΩ電阻，共5個
+  - 依照上述方法將R8~R12位置焊上220Ω電阻，共5個
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/37.jpg?w=1024)<br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2021/05/36.jpg?w=1024)<br><br>
   - 接著將POT1位置焊上10KΩ撥盤電位器
