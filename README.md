@@ -228,7 +228,7 @@ BC-101至此焊接完畢
 - STEP1：開啟 BC-101 韌體（Firmware.ino） <br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2022/01/f00.png?w=1024)<br><br>
 - STEP2：開啟函式庫管理員<br><br>
-  - 草稿碼 -> 匯入程式庫 -> 管理程式庫
+  - 草稿碼 -> 匯入程式庫 -> 管理程式庫<br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2022/01/f01.png?w=1024)<br><br>
 - STEP3：搜尋「 MIDIUSB 」函式庫並安裝<br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2022/01/f02-2.png?w=1024)<br><br>
