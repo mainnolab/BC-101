@@ -226,7 +226,7 @@ BC-101至此焊接完畢
 製作中
 ## 韌體燒錄
 - STEP1：開啟 BC-101 韌體（Firmware.ino） <br><br>
-![GitHub Logo](https://mainnolab.files.wordpress.com/2022/01/f0.png?w=1024)<br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2022/01/f00.png?w=1024)<br><br>
 - STEP2：安裝MIDIUSB函式庫<br><br>
   - 開啟 Arduino IDE -> 草稿碼 -> 匯入程式庫 -> 管理程式庫
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2022/01/f01.png?w=1024)<br><br>
