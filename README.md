@@ -232,7 +232,10 @@ BC-101至此焊接完畢
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2022/01/f01.png?w=1024)<br><br>
 - STEP3：搜尋「 MIDIUSB 」函式庫並安裝<br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2022/01/f02-2.png?w=1024)<br><br>
-- STEP4：編譯上傳程式碼 <br><br>
+- STEP4：選擇 Arduino Micro 開發板<br><br>
+  - 工具 -> 開發板 -> <br><br>
+![GitHub Logo](https://mainnolab.files.wordpress.com/2022/01/f03-2.png?w=1024)<br><br>
+- STEP5：編譯上傳程式碼 <br><br>
 ![GitHub Logo](https://mainnolab.files.wordpress.com/2022/01/f04.png?w=1024)<br><br>
 ## 功能測試
 製作中
